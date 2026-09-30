@@ -1,5 +1,5 @@
 -  Hi, I’m Kartik Gawshinde
--  I’m interested in Cloud Computing and Devops
+-  I’m interested in Cloud and DevOps
 -  I’m Looking for Fresher level Opportunity in DevOps and Cloud
 
 <!---
