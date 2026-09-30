@@ -1,6 +1,6 @@
 -  Hi, I’m Kartik Gawshinde
--  I’m interested in python and devops
--  I’m currently learning python
+-  I’m interested in Cloud Computing and Devops
+-  I’m Looking for Fresher level Opportunity in DevOps 
 
 <!---
 Kartik-Gawshinde/Kartik-Gawshinde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
